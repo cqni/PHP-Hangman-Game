@@ -1,0 +1,9 @@
+{
+  "name": "saworo/php-hangman",
+  "author": "Saworo",
+  "autoload": {
+    "psr-4": {
+      "saworo\\hangman": "src"
+    }
+  }
+}
